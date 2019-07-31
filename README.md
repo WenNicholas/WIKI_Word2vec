@@ -22,7 +22,7 @@
     《笑傲江湖》可视化：笑傲江湖visualization.py
 
 
-注：数据和训练模型太大没有上传    wiki百科数据需自己去下载。
+注：数据和训练模型太大没有上传    wiki百科数据需自己去下载  模型需自己重新训练。
 
 
 具体效果及步骤详解见我的博客：https://blog.csdn.net/weixin_40547993/article/details/97781179
