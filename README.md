@@ -1,4 +1,4 @@
-# WIKI_Word2vec
+# WIKI_Word2vec训练及可视化
 基于中文维基百科的词向量构建及可视化
 
 详见博客：https://blog.csdn.net/weixin_40547993/article/details/97781179
